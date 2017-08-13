@@ -17,4 +17,8 @@
     margin-bottom: 5%;
     text-align: center;
 }
+
+.main>.content>img {
+    width: 90%;
+}
 }
